@@ -11,9 +11,9 @@ Total Fares by City
 * Rural: 6.8%, $4,327.93
 
 Total Rides by City Type
-* Urban: 68.4.7%, 
-* Suburban: 26.3%, 
-* Rural: 5.3%, 
+* Urban: 68.4.7%, 1,625
+* Suburban: 26.3%, 625
+* Rural: 5.3%, 125
 
 ## Summary:
-Rural has the lowest fare, then Suburban and finally Urban. Instinctively I would recommend Urban since this type is the highest, but there are factors to consider such as cost per fare, available equipment, and operators. Therefore more data is needed before choosing the type of fare. 
+Rural has the lowest total fares, then Suburban and finally Urban. But average fare per ride is the opposite. Instinctively I would recommend Urban since this type is the highest grossing, but there are factors to consider such as cost per fare, available cars, and drivers. Therefore more data is needed before choosing the type of fare would be best to suit the business. 
